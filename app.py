@@ -61,4 +61,4 @@ if uploaded_file is not None:
             st.markdown(error_message)
 
 
-#streamlit run C:/Users/leahw/PycharmProjects/Int-to-Artificial-Intelligence-Final-Project/Main.py
+#streamlit run C:/Users/leahw/PycharmProjects/Int-to-Artificial-Intelligence-Final-Project/app.py
